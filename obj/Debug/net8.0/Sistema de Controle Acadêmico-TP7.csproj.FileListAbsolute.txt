@@ -1,0 +1,14 @@
+C:\Users\Leiil\OneDrive\Documentos\faculdade_c#\Sistema de Controle Acadêmico-TP7\bin\Debug\net8.0\Sistema de Controle Acadêmico-TP7.exe
+C:\Users\Leiil\OneDrive\Documentos\faculdade_c#\Sistema de Controle Acadêmico-TP7\bin\Debug\net8.0\Sistema de Controle Acadêmico-TP7.deps.json
+C:\Users\Leiil\OneDrive\Documentos\faculdade_c#\Sistema de Controle Acadêmico-TP7\bin\Debug\net8.0\Sistema de Controle Acadêmico-TP7.runtimeconfig.json
+C:\Users\Leiil\OneDrive\Documentos\faculdade_c#\Sistema de Controle Acadêmico-TP7\bin\Debug\net8.0\Sistema de Controle Acadêmico-TP7.dll
+C:\Users\Leiil\OneDrive\Documentos\faculdade_c#\Sistema de Controle Acadêmico-TP7\bin\Debug\net8.0\Sistema de Controle Acadêmico-TP7.pdb
+C:\Users\Leiil\OneDrive\Documentos\faculdade_c#\Sistema de Controle Acadêmico-TP7\obj\Debug\net8.0\Sistema de Controle Acadêmico-TP7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leiil\OneDrive\Documentos\faculdade_c#\Sistema de Controle Acadêmico-TP7\obj\Debug\net8.0\Sistema de Controle Acadêmico-TP7.AssemblyInfoInputs.cache
+C:\Users\Leiil\OneDrive\Documentos\faculdade_c#\Sistema de Controle Acadêmico-TP7\obj\Debug\net8.0\Sistema de Controle Acadêmico-TP7.AssemblyInfo.cs
+C:\Users\Leiil\OneDrive\Documentos\faculdade_c#\Sistema de Controle Acadêmico-TP7\obj\Debug\net8.0\Sistema de Controle Acadêmico-TP7.csproj.CoreCompileInputs.cache
+C:\Users\Leiil\OneDrive\Documentos\faculdade_c#\Sistema de Controle Acadêmico-TP7\obj\Debug\net8.0\Sistema de Controle Acadêmico-TP7.dll
+C:\Users\Leiil\OneDrive\Documentos\faculdade_c#\Sistema de Controle Acadêmico-TP7\obj\Debug\net8.0\refint\Sistema de Controle Acadêmico-TP7.dll
+C:\Users\Leiil\OneDrive\Documentos\faculdade_c#\Sistema de Controle Acadêmico-TP7\obj\Debug\net8.0\Sistema de Controle Acadêmico-TP7.pdb
+C:\Users\Leiil\OneDrive\Documentos\faculdade_c#\Sistema de Controle Acadêmico-TP7\obj\Debug\net8.0\Sistema de Controle Acadêmico-TP7.genruntimeconfig.cache
+C:\Users\Leiil\OneDrive\Documentos\faculdade_c#\Sistema de Controle Acadêmico-TP7\obj\Debug\net8.0\ref\Sistema de Controle Acadêmico-TP7.dll
